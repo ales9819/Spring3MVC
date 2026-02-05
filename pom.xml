@@ -10,7 +10,7 @@
 
 	<properties>
 		<spring.version>3.0.5.RELEASE</spring.version>
-		<maven.compiler.source>3.9.12</maven.compiler.source>
+		<maven.compiler.source>3.13.0</maven.compiler.source>
 	</properties>
 
 	<dependencies>
